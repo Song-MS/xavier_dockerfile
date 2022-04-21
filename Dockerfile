@@ -3,9 +3,9 @@ FROM ubuntu:20.04
 ARG DEBIAN_FRONTEND=noninteractive 
 ENV TZ=Asia/Seoul
 
-LABEL "purpose"="practice"
-LABEL email="jaichang@angel-robotics.com"
-LABEL name="jaichang"
+LABEL "purpose"="test"
+LABEL email="minsoo.song@angel-robotics.com"
+LABEL name="minsoo song"
 LABEL version="1.0"
 LABEL description="Ros2-Foxy"
 
